@@ -94,7 +94,7 @@ export default function WhyChooseSection() {
                   transition={{ duration: 0.5 }}
                 >
                   <Image
-                    src="https://ext.same-assets.com/1288700763/1307441648.jpeg"
+                    src="https://framerusercontent.com/images/X02UMHIKRjtK5yxaUkj1S4s3Cw.jpeg?scale-down-to=1024"
                     alt="DTECK professional technician"
                     width={600}
                     height={400}

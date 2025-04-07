@@ -51,21 +51,21 @@ export default function HeroSection() {
             </motion.div>
           </MotionSection>
 
-          <FloatingElement amplitude={15} duration={5} className="relative rounded-lg overflow-hidden">
+          <MotionSection className="relative" delay={0.4}>
             <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              transition={{ duration: 0.8, delay: 0.3 }}
+              whileHover={{ scale: 1.03 }}
+              transition={{ duration: 0.5 }}
+              className="relative h-[400px] w-full rounded-xl overflow-hidden shadow-lg"
             >
               <Image
-                src="https://ext.same-assets.com/1288700763/1387232857.jpeg"
-                alt="DTECK maintenance professional with client"
-                width={600}
-                height={400}
-                className="w-full h-auto rounded-xl shadow-lg"
+                src="https://ext.same-assets.com/1288700763/687604157.jpeg"
+                alt="Vinyl Flooring Installation"
+                fill
+                className="object-cover"
+                priority
               />
             </motion.div>
-          </FloatingElement>
+          </MotionSection>
         </div>
       </div>
 

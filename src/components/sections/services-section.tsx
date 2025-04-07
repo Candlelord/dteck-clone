@@ -36,27 +36,27 @@ export default function ServicesSection() {
     {
       title: "Vinyl Flooring Installation",
       description: "Durable and stylish vinyl flooring expertly installed to enhance your space.",
-      imageSrc: "https://ext.same-assets.com/1288700763/687604157.jpeg",
+      imageSrc: "https://framerusercontent.com/images/QZ9WLsTKrrojGu6oh4GoJyr80.jpeg",
     },
     {
       title: "Washing Machine Installation & Maintenance",
       description: "Professional setup and care to keep your washing machine in great condition.",
-      imageSrc: "https://ext.same-assets.com/1288700763/1781396770.jpeg",
+      imageSrc: "https://ext.same-assets.com/1288700763/2693529921.jpeg",
     },
     {
       title: "Turbo Dryer Services",
       description: "Efficient installation and repair to ensure your dryer works flawlessly.",
-      imageSrc: "https://ext.same-assets.com/1288700763/1127406066.jpeg",
+      imageSrc: "https://ext.same-assets.com/1288700763/1387232857.jpeg",
     },
     {
       title: "Domestic Plumbing",
       description: "From leaks to new installations, we handle all your plumbing needs with care.",
-      imageSrc: "https://ext.same-assets.com/1288700763/2634160139.jpeg",
+      imageSrc: "https://ext.same-assets.com/1288700763/1127406066.jpeg",
     },
     {
       title: "Dishwasher Installation & Maintenance",
       description: "Expert installation and regular maintenance to keep your dishwasher running efficiently and trouble-free.",
-      imageSrc: "https://ext.same-assets.com/1288700763/2693529921.jpeg",
+      imageSrc: "https://ext.same-assets.com/1288700763/1781396770.jpeg",
     },
     {
       title: "Electrical Installation & Refurbishing",
@@ -66,7 +66,7 @@ export default function ServicesSection() {
     {
       title: "Air Conditioning Installation & Maintenance",
       description: "Keep cool with expert AC installation, regular maintenance, and repairs.",
-      imageSrc: "https://ext.same-assets.com/1288700763/1307441648.jpeg",
+      imageSrc: "https://ext.same-assets.com/1288700763/2634160139.jpeg",
     },
   ];
 

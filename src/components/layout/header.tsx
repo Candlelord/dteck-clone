@@ -17,7 +17,7 @@ export default function Header() {
         <div className="flex items-center">
           <Link href="/" className="flex items-center">
             <Image
-              src="https://ext.same-assets.com/1288700763/424154795.png"
+              src="https://framerusercontent.com/images/QSnPPL0e2KLTLcA1TAaimRWcAlc.png?scale-down-to=512"
               alt="DTECK Maintenance & Installation"
               width={100}
               height={60}
